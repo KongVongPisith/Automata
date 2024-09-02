@@ -1,0 +1,4 @@
+44444		Example		q0q1q2			q2		01
+2522		Ex_Auto_Algo		q0q1q2			q2		01
+today		q0q1q2q3		q3			01		2222
+887		test3		01			1		1
